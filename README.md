@@ -8,4 +8,4 @@ Hi, I'm Ravi 👋
 - Fake News Detection  
 - Workshop UI Enhancement  
 
-📫 Reach me: raviyadav112004ahir@gmail.com
+📫 Reach me: ravi.yadav.dev27@gmail.com
