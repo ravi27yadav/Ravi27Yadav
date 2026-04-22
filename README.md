@@ -3,16 +3,16 @@
 🎓 B.Tech Student @ SRM IST
 💻 Aspiring Full Stack Developer
 
-🚀 Currently building web applications and improving DSA
+Currently building web applications and improving DSA
 
 ### 🔗 Portfolio
 
-👉 https://portfolio-hazel-xi-62.vercel.app
+👉 [Visit Portfolio](https://portfolio-hazel-xi-62.vercel.app)
 
 ### 📌 Projects
 
-* Notes App (Live Project)
-* Portfolio Website
+* [Notes App (Live Project)](https://notes-app-1-snt0.onrender.com) | Code
+* Portfolio Website | Code
 
 ### 📫 Contact
 
