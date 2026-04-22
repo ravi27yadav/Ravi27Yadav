@@ -1,9 +1,8 @@
 ## Hi, I'm Ravi 👋
 
-🎓 B.Tech Student @ SRM IST
-💻 Aspiring Full Stack Developer
+B.Tech Student @ SRM IST | Aspiring Full Stack Developer
 
-Currently building web applications and improving DSA
+Building real-world web applications and focusing on clean UI & problem solving
 
 ### 🔗 Portfolio
 
@@ -11,8 +10,8 @@ Currently building web applications and improving DSA
 
 ### 📌 Projects
 
-* [Notes App (Live Project)](https://notes-app-1-snt0.onrender.com) | Code
-* Portfolio Website | Code
+* [Notes App (Live Project)](https://notes-app-1-snt0.onrender.com) | [Code](https://github.com/ravi27yadav)
+* Portfolio Website | [Code](https://github.com/ravi27yadav)
 
 ### 📫 Contact
 
