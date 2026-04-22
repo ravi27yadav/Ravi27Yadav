@@ -1,11 +1,19 @@
-Hi, I'm Ravi 👋
+## Hi, I'm Ravi 👋
 
-🎓 CSE (Data Science) Student  
-💻 Interested in Machine Learning & Development  
+🎓 B.Tech Student @ SRM IST
+💻 Aspiring Full Stack Developer
 
-🚀 Projects:
-- House Price Prediction  
-- Fake News Detection  
-- Workshop UI Enhancement  
+🚀 Currently building web applications and improving DSA
 
-📫 Reach me: ravi.yadav.dev27@gmail.com
+### 🔗 Portfolio
+
+👉 https://portfolio-hazel-xi-62.vercel.app
+
+### 📌 Projects
+
+* Notes App (Live Project)
+* Portfolio Website
+
+### 📫 Contact
+
+[ravi.yadav.dev27@gmail.com](mailto:ravi.yadav.dev27@gmail.com)
